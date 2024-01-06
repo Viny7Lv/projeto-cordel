@@ -1,0 +1,10 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-size: 1em;
+}
+
+pre {
+    font-family: var(--fonte3);
+    white-space: pre-line;
+}
